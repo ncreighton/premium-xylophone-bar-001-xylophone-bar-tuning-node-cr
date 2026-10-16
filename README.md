@@ -1,0 +1,2 @@
+# premium-xylophone-bar-001-xylophone-bar-tuning-node-cr
+Tired of guessing whether your xylophone bars are perfectly in tune, or spending hours manually calculating frequency offsets for each node?  Xylophone Bar Tuning &amp; Node Craft Studio transforms your Notion workspace into a precision tuning lab. It eliminates guesswork by providing a structured system to log, calculate, and adjust the resonant frequ
